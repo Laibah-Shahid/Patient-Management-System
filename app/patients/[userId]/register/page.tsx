@@ -24,7 +24,7 @@ const Register = async ({ params: { userId } }: SearchParamProps) => {
 
           <RegisterForm user={user} />
 
-          <p className="copyright py-12">&copy; {new Date().getFullYear()} MedixPulse. All rights reserved.</p>
+          <p className="copyright py-12">&copy; {new Date().getFullYear()} CarePulse. All rights reserved.</p>
         </div>
       </section>
 
