@@ -24,7 +24,7 @@ const Appointment = async ({ params: { userId } }: SearchParamProps) => {
             type="create"
           />
 
-          <p className="copyright mt-10 py-12">&copy; {new Date().getFullYear()} MedixPulse. All rights reserved.</p>
+          <p className="copyright mt-10 py-12">&copy; {new Date().getFullYear()} CarePulse. All rights reserved.</p>
         </div>
       </section>
 
